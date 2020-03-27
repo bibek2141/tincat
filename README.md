@@ -1,2 +1,1 @@
-# tincat
-Created using Bootstrap, CSS, and HTML.
+TinDog Starting Files
